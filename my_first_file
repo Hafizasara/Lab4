@@ -5,5 +5,10 @@ Console.WriteLine("Addition of two numbers is + sum");
 
 int a = 5;
 int b = 5;
-int subtraction = a+b;
+int subtraction = a-b;
 Cinsole.WriteLine("subtraction of two numbers is + subtraction");
+
+int a = 5;
+int b = 5;
+int product = a*b;
+Console.WriteLine("Product of two numbers is + product");

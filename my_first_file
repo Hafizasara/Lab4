@@ -1,4 +1,9 @@
 int a = 5;
 int b = 5;
 int sum = a+b;
-Cinsole.WriteLine("Addition of two numbers is + sum");
+Console.WriteLine("Addition of two numbers is + sum");
+
+int a = 5;
+int b = 5;
+int subtraction = a+b;
+Cinsole.WriteLine("subtraction of two numbers is + subtraction");
